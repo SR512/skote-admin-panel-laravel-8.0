@@ -1,0 +1,1 @@
+# -skote-admin-panel-laravel-8.0
